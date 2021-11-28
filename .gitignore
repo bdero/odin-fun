@@ -1,5 +1,7 @@
 *~
 *.exe
+*.exp
+*.lib
 *.pdb
 ols.json
 .vscode
